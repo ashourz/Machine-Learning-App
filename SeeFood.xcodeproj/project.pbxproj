@@ -14,6 +14,7 @@
 		2CA3FEAD2C4454AD002455A9 /* SeeFood.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2CA3FEAB2C4454AD002455A9 /* SeeFood.xcdatamodeld */; };
 		2CA3FEAF2C4454AE002455A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CA3FEAE2C4454AE002455A9 /* Assets.xcassets */; };
 		2CA3FEB22C4454AE002455A9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2CA3FEB12C4454AE002455A9 /* Base */; };
+		2CA3FEBA2C4454BF002455A9 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2CA3FEB92C4454BF002455A9 /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2CA3FEAE2C4454AE002455A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CA3FEB12C4454AE002455A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CA3FEB32C4454AE002455A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CA3FEB92C4454BF002455A9 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2CA3FEA62C4454AD002455A9 /* ViewController.swift */,
 				2CA3FEA82C4454AD002455A9 /* Main.storyboard */,
 				2CA3FEAE2C4454AE002455A9 /* Assets.xcassets */,
+				2CA3FEB92C4454BF002455A9 /* Inceptionv3.mlmodel */,
 				2CA3FEB02C4454AE002455A9 /* LaunchScreen.storyboard */,
 				2CA3FEB32C4454AE002455A9 /* Info.plist */,
 				2CA3FEAB2C4454AD002455A9 /* SeeFood.xcdatamodeld */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CA3FEBA2C4454BF002455A9 /* Inceptionv3.mlmodel in Sources */,
 				2CA3FEA72C4454AD002455A9 /* ViewController.swift in Sources */,
 				2CA3FEAD2C4454AD002455A9 /* SeeFood.xcdatamodeld in Sources */,
 				2CA3FEA32C4454AD002455A9 /* AppDelegate.swift in Sources */,
